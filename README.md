@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README (copy this into the README.md of your profile repo)
-  Profile repo name should match your GitHub username: AbdulAhad-0/AbdulAhad-0
+  Profile repo name should match your GitHub username: <username>/<username>
 -->
 
 <h1 align="center">Abdul Ahad</h1>
@@ -31,12 +31,13 @@
 
 ## About
 
-I build high-performance web products and AI-powered automations — from polished frontends to scalable backends.
+Turning complex problems into elegant solutions — I build high-performance web products and AI-powered automations from polished frontends to scalable backends.
 
 - Currently building **Schedlit** (bootstrapped) — AI calling agents + appointment scheduling for businesses & call centers
-- **Freelance Full-stack Developer** (MERN / Shopify / WordPress) — remote, client-facing delivery
+- **Freelance Full-stack Developer** (MERN / Shopify / WordPress) — remote, client-facing delivery (**Fiverr Level 1**)
 - BSCS student at **FAST NUCES (Karachi)**
 - Learning more about **Machine Learning** and applied AI workflows
+- Open to collaborating on **open-source** projects
 
 ## Highlights
 
@@ -49,7 +50,7 @@ I build high-performance web products and AI-powered automations — from polish
 
 ## Tech I use
 
-**Frontend**: React, Next.js, TypeScript, Tailwind CSS, Motion
+**Frontend**: React, Next.js, TypeScript, Tailwind CSS, Framer Motion
 
 **Backend**: Node.js, Express, REST APIs, Python
 
